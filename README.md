@@ -1,6 +1,6 @@
 # Cat-Tinder-App
 
-Combine front (React) and back (Rails) end together for the first time.
+Combine front (React) and back (Rails) end together for the first time, in a de-coupled way (React-in-Ruby will be next project).
 
 View a list of all cats with their name, age and 'enjoys'.  Also view a form to add a new cat.  Icebox items include deleting cats, styling cards (adding images, justifying, padding, etc), adding a Favorite/Liked view/page, adding in a home page, and more fun cat features.
 
